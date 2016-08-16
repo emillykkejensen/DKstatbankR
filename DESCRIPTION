@@ -1,0 +1,10 @@
+Package: DKstatbankR
+Type: Package
+Title: DKstatbankR
+Version: 0.1.0
+Authors@R: person("Emil", "Lykke Jensen", email = "emil@explore23.dk", role = c("aut", "cre"))
+Description: R wrapper for Statistics Denmarks API
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: httr, jsonlite, readr
